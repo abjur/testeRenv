@@ -15,7 +15,9 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.1
 Imports: 
     magrittr,
-    tjsp2inst
+    tjsp2inst,
+    remotes,
+    rcmdcheck
 Remotes:
     abjur/tjsp2inst
 URL: https://github.com/abjur/testeRenv
